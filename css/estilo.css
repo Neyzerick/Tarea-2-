@@ -1,0 +1,33 @@
+#principal{
+    background-color: chocolate;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#c1{
+    background-color: rgb(134, 60, 60);
+    margin: 20px;
+    width: 550px;    
+    height: 950px;
+    padding-top: 30px;
+    border: solid;
+    text-align: center;
+}
+
+#vertical{
+    border: solid;
+    background-color: aqua;
+    position: relative;
+    display: inline-block;
+    width: 110px;    
+    height: 120px;
+    margin: 20px;
+}
+#horizontal{ 
+    border: solid;
+    height: 100px;
+    margin: 40px;
+    background-color: rgb(123, 28, 157);
+    position: relative;
+}
